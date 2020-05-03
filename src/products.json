@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "title": "Ноутбук Acer Predator Helios 300",
+        "img": "https://i1.rozetka.ua/goods/13870094/copy_acer_nh_nh_q54eu_019_5d751d985ba78_images_13870094599.jpg",
+        "text": "'Экран 15.6' IPS (1920x1080) Full HD 144 Гц, матовый / Intel Core i5-9300H (2.4 - 4.1 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 2060, 6 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.4 кг / черный"
+    },
+    {
+        "id": 4,
+        "title": "Ноутбук Asus X543MA-GQ496",
+        "img": "https://i1.rozetka.ua/goods/12583916/asus_90nb0ir6_m13660_images_12583916614.jpg",
+        "text": "'Экран 15.6' (1366x768) HD, матовый / Intel Celeron N4000 (1.1 - 2.6 ГГц) / RAM 4 ГБ / HDD 500 ГБ / Intel UHD Graphics 600 / без ОД / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.9 кг / серебристый"
+    },
+    {
+        "id": 5,
+        "title": "Мобильный телефон Samsung Galaxy M31",
+        "img": "https://i8.rozetka.ua/goods/16893927/samsung_galaxy_m31_6_128gb_blue_images_16893927576.jpg",
+        "text": "'Экран (6.4', Super AMOLED, 2340х1080) / Samsung Exynos 9611 (4 x 2.3 ГГц + 4 x 1.7 ГГц) / квадро основная камера: 64 Мп + 8 Мп + 5 Мп + 5 Мп, фронтальная 32 Мп / RAM 6 ГБ / 128 ГБ встроенной памяти + microSD (до 512 ГБ) / 3G / LTE / GPS / ГЛОНАСС / BDS / Galileo / поддержка 2х SIM-карт (Nano-SIM) / Android 10 (Q) / 6000 мА*ч"
+    },
+    {
+        "id": 6,
+        "title": "Мобильный телефон Xiaomi Redmi Note 8 Pro",
+        "img": "https://i2.rozetka.ua/goods/14142417/xiaomi_redmi_note_8_pro_6_128_black_images_14142417446.jpg",
+        "text": "'Экран (6.53', IPS, 2340x1080)/ MediaTek Helio G90T (2 x 2.05 ГГц + 6 x 2.0 ГГц)/ квадро основная камера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная камера: 20 Мп/ RAM 6 ГБ/ 128 ГБ встроенной памяти + microSD (до 256 ГБ)/ 3G/ LTE/ GPS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 9.0 (Pie) / 4500 мА*ч"
+    },
+    {
+        "id": 7,
+        "title": "Мобильный телефон Huawei P Smart Pro",
+        "img": "https://i2.rozetka.ua/goods/17485822/huawei_p_smart_pro_6_128_black_images_17485822417.jpg",
+        "text": "'Экран (6.59', LTPS, 2340x1080)/ HiSilicon Kirin 710F (4 x 2.2 ГГц + 4 x 1.7 ГГц)/ тройная основная камера: 48 Мп + 8 Мп + 2 Мп, фронтальная камера: 16 Мп/ RAM 6 ГБ/ 128 ГБ встроенной памяти + microSD (до 512 ГБ)/ 3G/ LTE/ GPS/ GLONASS/ поддержка 2х SIM-карт (Nano-SIM)/ Android 9.0 (EMUI 9.1)/ 4000 мА*ч"
+    }
+]

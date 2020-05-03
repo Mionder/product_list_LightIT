@@ -1,0 +1,1 @@
+export const GO_TO_PRODUCT = 'GO_TO_PRODUCT';

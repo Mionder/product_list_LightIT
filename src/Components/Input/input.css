@@ -1,0 +1,32 @@
+.inputs {
+  width: 250px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  padding: 5px 20px;
+  border-radius: 10px;
+  border: #2b2b2b;
+  background-color: #ffffffa2;
+  margin: 10px 0px;
+  border: 1px solid #9391ff; }
+
+.valid__login {
+  background-color: #9391ff;
+  width: 250px;
+  border-radius: 7px;
+  padding: 2px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 20px; }
+  .valid__login .validation {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 700; }
+  .valid__login .more-info {
+    font-weight: 500;
+    cursor: pointer; }
+
+.info_validation {
+  margin: 10px 0px;
+  height: 50px; }

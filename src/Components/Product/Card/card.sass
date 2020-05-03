@@ -1,0 +1,49 @@
+.product_card
+    margin-top: 20px
+    padding: 20px
+    border-radius: 20px
+    position: relative
+    width: 400px
+    height: auto
+    max-height: 650px
+    overflow: hidden
+    background-color: #e2e2e2
+    .product_wrapper
+        display: flex
+        // justify-content: space-between
+        flex-direction: column
+        .product_image
+            width: 100%
+            height: auto
+        .card_text
+            padding: 20px 10px
+            .product_name
+                font-size: 18px
+                font-weight: 600
+                line-height: 30px
+            .product_info
+                font-size: 14px
+                font-weight: 300
+                line-height: 24px
+        .button_area
+            display: flex
+            justify-content: space-between
+            .button_review
+                width: 150px
+                padding: 5px 20px
+                border-radius: 5px
+                background-color: #a5a3ff 
+                border: 1px solid #a4a3ffad
+                cursor: pointer
+                color: #fff
+                transition: 0.5s 
+                font-weight: 700
+            .button_review:hover
+                transition: 0.5s
+                background-color: #7977fd
+        .textarea_review
+            margin: 10px 0px
+            resize: none
+
+.star-ratings
+    padding: 10px 0px
